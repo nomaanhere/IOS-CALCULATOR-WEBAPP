@@ -2,6 +2,7 @@ Just a simpe interface where we can use iphone calculator on a website.
 //into development state
 
 Demo:
+![](demo.png)
 
 
 Things done:
