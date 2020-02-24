@@ -11,7 +11,7 @@ To-do:
 2.	Some CSS (box-shadow, time API, etc)
 
 Utility:
-<code>git clone https://github.com/nomaanhere/IPhone-Calculator.git</code>
+<pre> <code> git clone https://github.com/nomaanhere/IPhone-Calculator.git</code> </pre>
 
 
 Head over to HTML, CSS, JavaScript files for further <code>development</code>
