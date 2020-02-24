@@ -1,7 +1,7 @@
 Just a simpe interface where we can use iphone calculator on a website. 
 
 
-//into development state
+//into development stage
 
 Demo:
 ![](demo.png)
