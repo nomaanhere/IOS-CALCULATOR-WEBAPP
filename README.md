@@ -10,6 +10,6 @@ To-do:
 1.	Change of color of the operator when being used
 2.	Some CSS (box-shadow, time API, etc)
 
-For Development:
-1) Using CLI: git-clonehttps://github.com/nomaanhere/IOS-CALCULATOR-WEBAPP
-2) Head over to HTML, CSS, JavaScript files 
+Utility:
+$ git clone --https://github.com/nomaanhere/IPhone-Calculator.git
+Head over to HTML, CSS, JavaScript files for further <code> enhancements </code>. 
