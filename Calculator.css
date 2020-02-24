@@ -1,0 +1,99 @@
+body{
+	background-color: black;
+	text-align: center;
+	font-family: 'Open Sans'
+	
+}
+
+
+input { 
+    text-align: right;
+    background-color: black;
+    color: white;
+    border-color: black;
+    width:220px; 
+    height: 50px;
+    font-size: 50px;
+    margin-top:10px;
+}
+.icon{
+	text-align: center;
+	align-items: right;
+	color: white;
+	margin-top: 100px;
+	padding-left: 170px;
+	font-size: 0.5rem;
+}
+
+.phone{
+	text-align: center;
+
+}
+
+.navigate-top{
+	margin: absolute;
+	color: white;
+}
+
+#buttonblue{
+	background-color: #A3AAAE;
+	border-radius: 50%;
+	color: black;
+	width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right:2px;
+    border:none;
+    font-size: 1rem;
+    font-family: 'Open Sans'
+    font-size:2rem;
+
+
+
+}
+
+#buttongray{
+	background-color:  #2a2a2a;
+	font-color: white;
+	color:white;
+	border-radius: 50%;
+	width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right:2px;
+    border:none;
+    font-size: 1rem;
+
+}
+#buttonzero{
+	background-color: #2a2a2a;
+	max-width: 200px;
+	color: white;
+	border-radius:50px;
+	width: 100px;
+    height: 50px;
+    margin-top: 2px;
+    margin-right:4px;
+    border:none;
+    font-size: 1rem;
+
+
+}
+#buttonorange{
+	background-color:  #ffa500;
+	color: white;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	margin-top: 2px;
+	margin-left:2px;
+	border: none;
+	font-size: 1rem;
+}
+
+footer{
+	width:100px;
+	height: 2px;
+
+}
+
