@@ -12,4 +12,4 @@ To-do:
 
 Utility:
 $ git clone --https://github.com/nomaanhere/IPhone-Calculator.git
-Head over to HTML, CSS, JavaScript files for further <code> enhancements </code>. 
+Head over to HTML, CSS, JavaScript files for further <code>development</code>
